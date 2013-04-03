@@ -8,10 +8,11 @@ Quick start
 -----------
 
 1. Add "yacaptcha" to your INSTALLED_APPS setting like this:
-
+<pre>
       INSTALLED_APPS = (
 	      'yacaptcha',
       )
+</pre>
 
 2. Get the API key http://api.yandex.ru/cleanweb
 
