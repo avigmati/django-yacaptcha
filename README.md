@@ -33,7 +33,7 @@ Quick start
     <pre>
         YACAPTCHA_WIDGET_TEMPLATE = 'path_to_widget.html'
     </pre>
-    Or use default widteg.html from package django-yacaptcha/templates/yacaptcha/widget.html
+    Or use default widget.html from package django-yacaptcha/templates/yacaptcha/widget.html
 
 6. If you use django-registration, you may use registartion backend with yacaptcha field like this:
     <pre>
